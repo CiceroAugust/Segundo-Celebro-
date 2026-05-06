@@ -1,4 +1,7 @@
-    # Segundo-Celebro Criador do Sass.
+#Segundo-Celebro Criador do Sass.
+
+
+
 Hampton Catlin foi um desenvolvedor web e designer conhecido por criar o Sass (Syntactically Awesome Style Sheets) em 2006. Ele desenvolveu a ferramenta para facilitar a escrita de CSS, introduzindo recursos como variáveis, aninhamento e mixins. O Sass rapidamente se tornou uma das principais extensões de CSS usadas no desenvolvimento web moderno.
 
 
