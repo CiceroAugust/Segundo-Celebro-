@@ -21,8 +21,10 @@ Transforme qualquer imagem e pesquisa em ícone profissional.
            🖥Tecnologia💻
 
 💻 notebooklm.google.com
+<img width="2784" height="1637" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/471ecb97-05ad-435c-aa02-c0e0b8b147ba" />
 
-💡  YotuBE  Links:
+
+💡  YotuBE  Links Fontes:
 
 https://www.youtube.com/watch?v=C7nRq25ZJls
 
