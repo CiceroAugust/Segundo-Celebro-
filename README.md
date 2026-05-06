@@ -1,4 +1,4 @@
-#Segundo-Celebro Criador do Sass.
+ 💻Criador do Sass.
 
 
 
@@ -14,12 +14,9 @@ Ideal para quem quer, simples, rapido.
 
       O que vai encontra aqui?
 O objetivo principal é replicar um "segundo cérebro" que espelhe a metodologia única de Catlin para organizar informações e fomentar a criatividade.
-
-
+Também tem o quiz aonde serão perguntas sobre a pesquisa, pequenos video, aúdios .
 Crie estruturas completas com apenas alguns cliques.
 Transforme qualquer imagem e pesquisa em ícone profissional.
-
-
 
            🖥Tecnologia💻
 
